@@ -1,6 +1,4 @@
 #!bin/bash
-
-
 source ./commom.sh
 app_name=catalogue 
 
